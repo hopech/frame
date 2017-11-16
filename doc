@@ -1,7 +1,7 @@
 com.cc.frame.xxx 日常开发常用lib库
 
 orm：mysql orm
-sweb：web项目框架封装
+cweb：spring boot web项目框架封装
 utils：工具集合
 tracelog：链式跟踪log中间件
 cache：本地缓存
